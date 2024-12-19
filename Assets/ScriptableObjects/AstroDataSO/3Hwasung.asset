@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98dd8952081cd6145851992949ab74b9, type: 3}
+  m_Name: 3Hwasung
+  m_EditorClassIdentifier: 
+  Name: Hwasung
+  Rank: 3
+  Score: 80
+  Mass: 1
+  CollisionSize: 0.7
+  TriggerSize: 0.815
+  Sprite: {fileID: 21300000, guid: 57a2285fb5455e645b3e00599680c8e4, type: 3}
+  NextAstro: {fileID: 11400000, guid: 64f7b59e243c7d84aaf6180775168042, type: 2}
+  LeftEyePos: {x: -0.274, y: 0.263}
+  RightEyePos: {x: 0.331, y: 0.257}
+  EyeScale: {x: 0.75, y: 0.75}
